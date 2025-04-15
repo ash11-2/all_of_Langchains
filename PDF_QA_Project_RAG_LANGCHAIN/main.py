@@ -1,4 +1,5 @@
 # Main App
+# a multi-agent RAG system that reads PDF contracts and answers legal questions
 # main.py
 
 from pdf_loader import load_and_split_pdf
